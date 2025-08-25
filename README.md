@@ -1,2 +1,2 @@
-# python-console-error-tools
-A set of console error tools for python!
+# Console Error Tools
+A set of console error tools for python! (No credit required, under CC0)
